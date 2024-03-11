@@ -1,5 +1,5 @@
 # Frontend Mentor - Single price grid component
-
+Live: https://remigiuszgithub.github.io/Single-price-flex-component/
 ![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
